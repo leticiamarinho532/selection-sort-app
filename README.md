@@ -6,7 +6,7 @@ A simple app to sort an array of integers in ascending order.
 1. Tecnologies
 2. How to run on yor machine
 
-## **1.. Tecnologies**
+## **1. Tecnologies**
 - PHP 8
 
 ## **2. How to run on yor machine**
